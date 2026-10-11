@@ -4,8 +4,8 @@
 Repositori ini dikembangkan untuk memenuhi penugasan mata kuliah Pembelajaran Mesin / Computer Vision[cite: 1]. Proyek ini berfokus pada perbandingan performa model Convolutional Neural Networks (CNN) menggunakan teknik *Transfer Learning*, *Fine-Tuning*, dan *Data Augmentation* pada dataset citra terbatas (*small-data regime*)[cite: 2, 4].
 
 ## 👤 Informasi Mahasiswa
-* **Nama:** [Nama Anda]
-* **NIM:** [NIM Anda]
+* **Nama:** Mark Philip Lengkong
+* **NIM:** 2802491715
 * **Program Studi:** Computer Science - BINUS University
 
 ## 📂 Struktur Berkas Repositori
