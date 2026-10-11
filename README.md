@@ -9,10 +9,10 @@ Repositori ini dikembangkan untuk memenuhi penugasan mata kuliah Pembelajaran Me
 * **Program Studi:** Computer Science - BINUS University
 
 ## 📂 Struktur Berkas Repositori
+*`BagA&C_2802491715_MarkPhilipLengkong.pdf`: Jawaban Bagian A dan Laporan(Bagian C)
 * `Tugas05_2802491715_MarkPhilipLengkong.ipynb`: Berkas Jupyter Notebook utama yang berisi seluruh kode pelatihan dari kondisi B1 hingga B5, evaluasi model, dan *failure analysis*[cite: 1, 5, 7, 8].
 * `metrics_summary.csv`: Berkas log metrik mentah hasil pencatatan eksperimen pelatihan[cite: 8, 10].
 * `requirements.txt`: Daftar pustaka dependensi Python yang dibutuhkan.
-* ''
 * `README.md`: Dokumentasi penjelasan repositori[cite: 8].
 
 ## 📊 Rangkuman Kondisi Eksperimen (Oxford-IIIT Pet Dataset)
