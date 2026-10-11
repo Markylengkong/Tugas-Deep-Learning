@@ -9,11 +9,11 @@ Repositori ini dikembangkan untuk memenuhi penugasan mata kuliah Pembelajaran Me
 * **Program Studi:** Computer Science - BINUS University
 
 ## 📂 Struktur Berkas Repositori
-*`BagA&C_2802491715_MarkPhilipLengkong.pdf`: Jawaban Bagian A dan Laporan(Bagian C)
+* `BagA&C_2802491715_MarkPhilipLengkong.pdf`: Jawaban Bagian A dan Laporan(Bagian C)
+* `README.md`: Dokumentasi penjelasan repositori[cite: 8].
 * `Tugas05_2802491715_MarkPhilipLengkong.ipynb`: Berkas Jupyter Notebook utama yang berisi seluruh kode pelatihan dari kondisi B1 hingga B5, evaluasi model, dan *failure analysis*[cite: 1, 5, 7, 8].
 * `metrics_summary.csv`: Berkas log metrik mentah hasil pencatatan eksperimen pelatihan[cite: 8, 10].
 * `requirements.txt`: Daftar pustaka dependensi Python yang dibutuhkan.
-* `README.md`: Dokumentasi penjelasan repositori[cite: 8].
 
 ## 📊 Rangkuman Kondisi Eksperimen (Oxford-IIIT Pet Dataset)
 Eksperimen dilakukan menggunakan subset 10 kelas target (5 ras kucing dan 5 ras anjing) dengan arsitektur utama **ResNet-18** dan pembanding **EfficientNet-B0**[cite: 4, 5]:
@@ -24,6 +24,6 @@ Eksperimen dilakukan menggunakan subset 10 kelas target (5 ras kucing dan 5 ras 
 * **B5 (EfficientNet-B0):** Evaluasi arsitektur modern berorientasi efisiensi[cite: 5].
 
 ## 🚀 Cara Menjalankan Kode
-1. Unggah berkas `Tugas05_NIM_Nama.ipynb` ke **Google Colab**[cite: 1].
+1. Unggah berkas `Tugas05_2802491715_MarkPhilipLengkong.ipynb` ke **Google Colab**[cite: 1].
 2. Pastikan *Runtime type* diatur menggunakan **GPU T4**[cite: 1].
 3. Jalankan seluruh sel secara berurutan (*Run All*). Dataset Oxford-IIIT Pet akan diunduh secara otomatis melalui `torchvision`[cite: 4].
